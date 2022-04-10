@@ -75,7 +75,7 @@ diperoleh hasil `0.2181994` <br>
 ![2a.png]( ss/2a.png )
 
 ### Soal 2.b
-Histogram kasus soal 2
+Histogram kasus soal 2<br>
 ![2b.png]( ss/2b.png )
 
 ### Soal 2.c
@@ -190,7 +190,7 @@ x1 <- rexp(10,rate = lambda)
 hist(x1,
      main = "Histogram Exponensial if n = 10")
 ```
-![5b01.png]( ss/5b01.png )
+![5b01.png]( ss/5b01.png )<br>
 Histogram exponensial untuk n = 100
 ```
 set.seed(1)
@@ -200,7 +200,7 @@ hist(x2,
      xlim = c(0,2),
      main = "Histogram Exponensial if n = 100")
 ```
-![5b02.png]( ss/5b02.png )
+![5b02.png]( ss/5b02.png )<br>
 Histogram exponensial untuk n = 1000
 ```
 set.seed(1)
@@ -210,7 +210,7 @@ hist(x3,
      xlim = c(0,3),
      main = "Histogram Exponensial if n = 1000")
 ```
-![5b03.png]( ss/5b03.png )
+![5b03.png]( ss/5b03.png )<br>
 Histogram exponensial untuk n = 10000
 ```
 set.seed(1)
